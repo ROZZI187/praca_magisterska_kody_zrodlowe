@@ -1,7 +1,8 @@
 
 Repozytorium zawiera skrypty w języku Python wykorzystane w pracy magisterskiej dotyczącej klasyfikacji dźwięków ptaków z użyciem metod uczenia maszynowego i głębokiego uczenia.
 
-# Autor: Mateusz Urbański Politechnika Świętokrzyska
+# Autor: Mateusz Urbański 
+# Uczelnia: Politechnika Świętokrzyska
 
 ## Skrypty
 ### Przygotowanie danych
